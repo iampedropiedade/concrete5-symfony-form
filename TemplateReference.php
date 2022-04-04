@@ -1,12 +1,13 @@
 <?php
+declare(strict_types=1);
 
-namespace Matt9mg\Concrete5\Symfony\Form;
+namespace IAmPedroPiedade\Concrete5\Symfony\Form;
 
 use Symfony\Component\Templating\TemplateReferenceInterface;
 
 /**
  * Class TemplateReference
- * @package Matt9mg\Concrete5\Symfony\Form
+ * @package IAmPedroPiedade\Concrete5\Symfony\Form
  */
 
 class TemplateReference implements TemplateReferenceInterface

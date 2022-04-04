@@ -3,11 +3,11 @@
   "type": "library",
   "description": "Symfony Form Integration For Concrete5",
   "keywords": [],
-  "homepage": "https://github.com/matt9mg/concrete5-symfony-forms",
+  "homepage": "https://github.com/iampedropiedade/concrete5-symfony-form",
   "license": "MIT",
   "authors": [
     {
-      "name": "Matthew Thomas"
+      "name": "Matthew Thomas, Pedro Piedade"
     }
   ],
   "require": {

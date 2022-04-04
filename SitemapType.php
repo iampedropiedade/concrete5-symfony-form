@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Matt9mg\Concrete5\Symfony\Form;
+namespace IAmPedroPiedade\Concrete5\Symfony\Form;
 
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormInterface;
@@ -10,7 +10,7 @@ use Symfony\Component\OptionsResolver\OptionsResolver;
 
 /**
  * Class SitemapType
- * @package Matt9mg\Concrete5\Symfony\Form
+ * @package IAmPedroPiedade\Concrete5\Symfony\Form
  */
 class SitemapType extends AbstractType
 {

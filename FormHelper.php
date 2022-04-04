@@ -1,5 +1,5 @@
 <?php
-namespace Matt9mg\Concrete5\Symfony\Form;
+namespace IAmPedroPiedade\Concrete5\Symfony\Form;
 
 use Symfony\Component\Templating\Helper\Helper;
 use Symfony\Component\Form\FormRendererInterface;
@@ -7,6 +7,7 @@ use Symfony\Component\Form\FormView;
 
 /**
  * Class FormHelper
+ * @package IAmPedroPiedade\Concrete5\Symfony\Form
  */
 class FormHelper extends Helper
 {

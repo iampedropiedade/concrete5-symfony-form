@@ -10,7 +10,7 @@ use Symfony\Component\OptionsResolver\OptionsResolver;
 
 /**
  * Class FileManagerType
- * @package Matt9mg\Concrete5\Symfony\Form
+ * @package IAmPedroPiedade\Concrete5\Symfony\Form
  */
 class FileManagerType extends AbstractType
 {

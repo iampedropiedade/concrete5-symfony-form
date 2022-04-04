@@ -3,9 +3,6 @@ declare(strict_types=1);
 
 namespace IAmPedroPiedade\Concrete5\Symfony\Form;
 
-
-use Concrete\Core\Localization\Localization;
-use Symfony\Component\Form\Extension\Templating\TemplatingRendererEngine;
 use Symfony\Component\Templating\Helper\HelperInterface;
 use Symfony\Component\Templating\PhpEngine;
 use Symfony\Component\Form\FormRenderer as SymfonyFormRenderer;

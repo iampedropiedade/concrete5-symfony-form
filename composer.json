@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Matt9mg\\Concrete5\\Symfony\\Form\\": ""
+      "IAmPedroPiedade\\Concrete5\\Symfony\\Form\\": ""
     }
   },
   "prefer-stable": true,

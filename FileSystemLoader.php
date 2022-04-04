@@ -1,4 +1,6 @@
 <?php
+declare(strict_types=1);
+
 namespace IAmPedroPiedade\Concrete5\Symfony\Form;
 
 use Symfony\Component\Templating\Loader\FilesystemLoader as BaseFilesystemLoader;

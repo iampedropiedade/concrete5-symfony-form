@@ -1,12 +1,12 @@
 <?php
-namespace Matt9mg\Concrete5\Symfony\Form;
+namespace IAmPedroPiedade\Concrete5\Symfony\Form;
 
 use Symfony\Component\Templating\TemplateNameParser as BaseTemplateNameParser;
 use Symfony\Component\Templating\TemplateReferenceInterface;
 
 /**
  * Class TemplateNameParser
- * @package Matt9mg\Concrete5\Symfony\Form
+ * @package IAmPedroPiedade\Concrete5\Symfony\Form
  */
 class TemplateNameParser extends BaseTemplateNameParser
 {
